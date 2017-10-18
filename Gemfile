@@ -1,6 +1,2 @@
-source "https://rubygems.org"
-
-gem "jekyll-paginate"
-gem "jekyll-gist"
-gem "jekyll"
-gem "rouge"
+source 'https://gems.ruby-china.org/'
+gem 'github-pages'
